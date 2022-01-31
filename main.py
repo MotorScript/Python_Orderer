@@ -57,26 +57,74 @@ sku_ignore = [
     "SQ0337763"
 
 ]
+tea_sku = [
+    "SQ9559552",
+    "SQ9396906",
+    "SQ6832447",
+    "SQ9452382",
+    "SQ6599715",
+    "SQ8779714",
+    "SQ6010692",
+    "SQ9023182",
+    "SQ8153046",
+    "SQ5554145",
+    "SQ7325242",
+    "SQ4091978",
+    "SQ2225339",
+    "SQ4010512",
+    "SQ1646863",
+    "SQ4083116",
+    "SQ1914789",
+    "SQ2535315",
+    "SQ8039925",
+    "SQ1521954",
+    "SQ9739867",
+    "SQ7855626",
+    "SQ3326399",
+    "SQ0526499",
+    "SQ8546204",
+    "SQ9151704",
+    "SQ1216335",
+    "SQ9525719",
+    "SQ8978865",
+    "SQ5782420",
+    "SQ0733874",
+    "SQ4661584",
+    "SQ0670252",
+    "SQ9811864",
+    "SQ2766507",
+    "SQ9181994",
+    "SQ6949240",
+    "SQ3979895",
+    "SQ5357669",
+    "SQ1253643"
+
+]
 
 apiversion = "1.0"
-resourcepath = "commerce/orders"
+resourcepath = "commerce/"
+resourcepath2 = "orders"
+resourcepath3 = "products"
 description = "PythonProject"
 status = "PENDING"
+cursor = "eyJzZXJ2aWNlQ3Vyc29yIjoiTlRBIiwibW9kaWZpZWRBZnRlciI6bnVsbCwibW9kaWZpZWRCZWZvcmUiOm51bGwsInF1ZXJ5IjpudWxsfQ"
 data = {
     "Authorization": f"Bearer {api_key}",
     "User-Agent": f"{description}"
 }
+jsonList = []
+jsonList.append(requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath+resourcepath3}", headers=data).json())
+jsonList.append(requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath+resourcepath3}?&cursor={cursor}", headers=data).json())
 
+#req = requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath+resourcepath2}?&fulfillmentStatus={status}", headers=data)
 
-
-#req = requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath}?&fulfillmentStatus={status}", headers=data)
-
-#with open("orders_data.json", "w") as f:
-#    json.dump(req.json(), f)
+with open("inventory_data.json", "w") as f:
+    json.dump(jsonList, f)
 
 with open("orders_data.json", "r") as f:
     orders = json.load(f)
-
+with open("inventory_data.json", "r") as f:
+    inventory = json.load(f)
 order_product_data = {}
 order_data = []
 order_skus = []
@@ -118,14 +166,17 @@ for i in order_data:
         if i["product_size"] != "NA":
             total_ammount = i["product_size"] * i["product_quantity"]
             i["total_ammount"] = total_ammount
-            print(total_ammount)
+            #print(total_ammount)
         else:
-            print("Product does not have a valid size.")
+            continue
+            #print("Product does not have a valid size.")
     except KeyError:
-        print("No product size available")
+        continue
+       # print("No product size available")
 #print(order_data)
 
 #print(order_data[:]["product_sku"])
-print(order_skus)
+#print(order_skus)
 
-
+for i in inventory["products"]:
+    print(i["name"])

@@ -4,8 +4,10 @@ from dotenv import load_dotenv
 import os
 import json
 import re
+
+
 load_dotenv()
-api_url = os.getenv("API_KEY")
+api_key = os.getenv("API_KEY")
 sku_ignore = [
     "SQ1075621",
     "SQ3778713",
@@ -61,9 +63,11 @@ resourcepath = "commerce/orders"
 description = "PythonProject"
 status = "PENDING"
 data = {
-    "Authorization": f"Bearer {api_url}",
+    "Authorization": f"Bearer {api_key}",
     "User-Agent": f"{description}"
 }
+
+
 
 #req = requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath}?&fulfillmentStatus={status}", headers=data)
 
@@ -123,3 +127,5 @@ for i in order_data:
 
 #print(order_data[:]["product_sku"])
 print(order_skus)
+
+

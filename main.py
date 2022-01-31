@@ -75,18 +75,24 @@ with open("orders_data.json", "r") as f:
 
 order_product_data = {}
 order_data = []
+order_skus = []
 len = int(len(orders["result"]))
 for i in orders["result"][:len]:
+    
     for b in i["lineItems"]:
+        
         if b["sku"] in sku_ignore:
             continue
+        elif b["sku"] in order_skus:
+            for i in order_data:
+                i["product_quantity"] += b["quantity"]
+            print("in elif")
         else:
             order_product_data = {
                 "product_name": b["productName"],
                 "product_quantity": b["quantity"],
                 "product_sku": b["sku"]
             }
-      
             for a in b["variantOptions"]:
                 num = 0 
                 try:
@@ -100,15 +106,20 @@ for i in orders["result"][:len]:
                 order_product_data["product_size"] = num
             order_data.append(order_product_data)
 
-print(order_data)
 total_ammount = 0
 for i in order_data:
+    order_skus.append(i["product_sku"])
     
     try:
         if i["product_size"] != "NA":
             total_ammount = i["product_size"] * i["product_quantity"]
+            i["total_ammount"] = total_ammount
             print(total_ammount)
         else:
             print("Product does not have a valid size.")
     except KeyError:
         print("No product size available")
+#print(order_data)
+
+#print(order_data[:]["product_sku"])
+print(order_skus)

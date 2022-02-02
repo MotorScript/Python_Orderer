@@ -178,5 +178,8 @@ for i in order_data:
 #print(order_data[:]["product_sku"])
 #print(order_skus)
 
-for i in inventory["products"]:
-    print(i["name"])
+
+for i in inventory:
+    for b in i["products"]:
+
+        print(b["name"])

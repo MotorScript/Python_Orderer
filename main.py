@@ -112,14 +112,21 @@ data = {
     "Authorization": f"Bearer {api_key}",
     "User-Agent": f"{description}"
 }
-jsonList = []
-jsonList.append(requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath+resourcepath3}", headers=data).json())
-jsonList.append(requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath+resourcepath3}?&cursor={cursor}", headers=data).json())
+res3 = []
+def Merge(dict1, dict2):
+    res3 = dict1
+    res3.append(dict2)
+    return res3
+#res = requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath+resourcepath3}", headers=data).json() 
+#res2 = requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath+resourcepath3}?&cursor={cursor}", headers=data).json()
+#res3 = {**res, **res2}
+#inv_list = res["products"] + res2["products"]
+#req = requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath+resourcepath2}?&fulfillmentStatus={status}", headers=data).json()
+# with open("inventory_data.json", "w") as f:
+#     json.dump(inv_list, f)
 
-#req = requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath+resourcepath2}?&fulfillmentStatus={status}", headers=data)
-
-with open("inventory_data.json", "w") as f:
-    json.dump(jsonList, f)
+#with open("orders_data.json", "w") as f:
+#    json.dump(req, f)
 
 with open("orders_data.json", "r") as f:
     orders = json.load(f)
@@ -128,17 +135,21 @@ with open("inventory_data.json", "r") as f:
 order_product_data = {}
 order_data = []
 order_skus = []
+current_sku = 0
+
 len = int(len(orders["result"]))
 for i in orders["result"][:len]:
-    
+    if current_sku != 0:
+        order_skus.append(current_sku)
     for b in i["lineItems"]:
-        
+
+        current_sku = b["sku"]
         if b["sku"] in sku_ignore:
-            continue
-        elif b["sku"] in order_skus:
-            for i in order_data:
-                i["product_quantity"] += b["quantity"]
-            print("in elif")
+            break
+        # elif b["sku"] in order_skus:
+        #     for i in order_data:
+        #         i["product_quantity"] += b["quantity"]
+        #     print("in elif")
         else:
             order_product_data = {
                 "product_name": b["productName"],
@@ -156,30 +167,31 @@ for i in orders["result"][:len]:
                 except:
                     num = "NA"
                 order_product_data["product_size"] = num
+                order_product_data["size_des"] = a["value"]
             order_data.append(order_product_data)
 
 total_ammount = 0
-for i in order_data:
-    order_skus.append(i["product_sku"])
+#for i in order_data:
     
-    try:
-        if i["product_size"] != "NA":
-            total_ammount = i["product_size"] * i["product_quantity"]
-            i["total_ammount"] = total_ammount
-            #print(total_ammount)
-        else:
-            continue
-            #print("Product does not have a valid size.")
-    except KeyError:
-        continue
+    
+    # try:
+    #     if i["product_size"] != "NA":
+    #         total_ammount = i["product_size"] * i["product_quantity"]
+    #         i["total_ammount"] = total_ammount
+    #         #print(total_ammount)
+    #     else:
+    #         continue
+    #         #print("Product does not have a valid size.")
+    # except KeyError:
+    #     continue
        # print("No product size available")
-#print(order_data)
+    #print(i["product_name"])
 
 #print(order_data[:]["product_sku"])
-#print(order_skus)
+#print(order_data)
 
-
-for i in inventory:
-    for b in i["products"]:
-
-        print(b["name"])
+#print(order_data)
+# for i in inventory:
+#     for b in i["products"]:
+#         continue
+       # print(b["name"])

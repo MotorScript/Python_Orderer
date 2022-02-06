@@ -171,27 +171,4 @@ for i in orders["result"][:len]:
             order_data.append(order_product_data)
 
 total_ammount = 0
-#for i in order_data:
-    
-    
-    # try:
-    #     if i["product_size"] != "NA":
-    #         total_ammount = i["product_size"] * i["product_quantity"]
-    #         i["total_ammount"] = total_ammount
-    #         #print(total_ammount)
-    #     else:
-    #         continue
-    #         #print("Product does not have a valid size.")
-    # except KeyError:
-    #     continue
-       # print("No product size available")
-    #print(i["product_name"])
 
-#print(order_data[:]["product_sku"])
-#print(order_data)
-
-#print(order_data)
-# for i in inventory:
-#     for b in i["products"]:
-#         continue
-       # print(b["name"])

@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 import json
 import re
-
+from Scraper import scraper
 
 load_dotenv()
 api_key = os.getenv("API_KEY")
@@ -186,6 +186,8 @@ for i in order_data:
             else:
                 break
 
-print(order_tea_urls)
 with open("tea_urls.json", "w") as f:
     json.dump(order_tea_urls, f)
+
+for i in order_tea_urls:
+    scrape = scraper(i)

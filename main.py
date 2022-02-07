@@ -132,6 +132,8 @@ with open("orders_data.json", "r") as f:
     orders = json.load(f)
 with open("inventory_data.json", "r") as f:
     inventory = json.load(f)
+with open("tea_inventory.json", "r") as f:
+    tea_inv = json.load(f)
 order_product_data = {}
 order_data = []
 order_skus = []
@@ -172,3 +174,18 @@ for i in orders["result"][:len]:
 
 total_ammount = 0
 
+with open("tea_inventory.json", "r") as f:
+    tea_inv = json.load(f)
+
+order_tea_urls = []
+for i in order_data:
+    for b in tea_inv:
+        if i["product_sku"] in b["skus"]:
+            if b["url"] != "NA":
+                order_tea_urls.append(b["url"])
+            else:
+                break
+
+print(order_tea_urls)
+with open("tea_urls.json", "w") as f:
+    json.dump(order_tea_urls, f)

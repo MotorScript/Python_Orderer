@@ -4,7 +4,8 @@ from dotenv import load_dotenv
 import os
 import json
 import re
-from Scraper import scraper
+from collections import Counter
+#from Scraper import scraper
 
 load_dotenv()
 api_key = os.getenv("API_KEY")
@@ -117,6 +118,7 @@ def Merge(dict1, dict2):
     res3 = dict1
     res3.append(dict2)
     return res3
+  
 #res = requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath+resourcepath3}", headers=data).json() 
 #res2 = requests.get(f"https://api.squarespace.com/{apiversion}/{resourcepath+resourcepath3}?&cursor={cursor}", headers=data).json()
 #res3 = {**res, **res2}
@@ -177,17 +179,53 @@ total_ammount = 0
 with open("tea_inventory.json", "r") as f:
     tea_inv = json.load(f)
 
+
+all_skus = []
+dupl_skus = []
 order_tea_urls = []
+tea_orders = []
 for i in order_data:
+    
+    cnt = Counter(all_skus)
+
+
     for b in tea_inv:
         if i["product_sku"] in b["skus"]:
+            i["total_amount"] = i["product_size"] * i["product_quantity"]
+            tea_orders.append(i)
             if b["url"] != "NA":
                 order_tea_urls.append(b["url"])
             else:
                 break
+        else:
+            i["total_amount"] = "NA"
+    
+    all_skus.append(i["product_sku"])
+    for k, v in cnt.items():
+            if v > 1:
+                dupl_skus.append(k)
+                   
+    #if i in order_data[:]
+    # for z in prev_products:
+    #     if i in prev_products:
+    #         z["total_amount"] += i["total_amount"]
+    #         continue
+    #     else:
+    #         prev_products.append(i)
+    #     print(z)
+    
 
 with open("tea_urls.json", "w") as f:
     json.dump(order_tea_urls, f)
+with open("tea_orders.json", "w") as f:
+    json.dump(tea_orders, f)
 
-for i in order_tea_urls:
-    scrape = scraper(i)
+#orderer = scraper("tea_urls.json")
+
+#
+#orderer.order_items()
+
+
+
+
+#print(dupl_skus)

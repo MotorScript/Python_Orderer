@@ -1,0 +1,1052 @@
+1644204229126	geckodriver	INFO	Listening on 127.0.0.1:58665
+1644204229632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54005" "-no-remote" "-profile" "/tmp/rust_mozprofileI0i0qf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204230602	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI0i0qf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54005/devtools/browser/cf99b79e-b6aa-48c8-bd67-3a714e76b07d
+1644204232632	Marionette	INFO	Listening on port 41043
+1644204232669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644204237637	geckodriver	INFO	Listening on 127.0.0.1:57533
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644204238141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36295" "-no-remote" "-profile" "/tmp/rust_mozprofilewg6LWl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204239513	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewg6LWl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36295/devtools/browser/d57a1f09-90ec-4a3b-aeab-b118176452d1
+1644204241783	Marionette	INFO	Listening on port 39947
+1644204241883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644204245986	geckodriver	INFO	Listening on 127.0.0.1:46417
+1644204245994	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41677" "-no-remote" "-profile" "/tmp/rust_mozprofile8uJe9f"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204247346	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8uJe9f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41677/devtools/browser/d7363c13-670f-4459-83c0-d3b8108aff46
+1644204249898	Marionette	INFO	Listening on port 33375
+1644204249935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644204250773	Marionette	INFO	Stopped listening on port 33375
+1644204250874	geckodriver	INFO	Listening on 127.0.0.1:52903
+console.error: services.settings: 
+  main/quicksuggest Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644204251388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45139" "-no-remote" "-profile" "/tmp/rust_mozprofileEqa33A"
+1644204251551	Marionette	INFO	Stopped listening on port 39947
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644204252212	Marionette	INFO	Stopped listening on port 41043
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204253038	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEqa33A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45139/devtools/browser/e879b2d0-976d-4ae6-b0cd-8ab5a5d9d998
+1644204255304	Marionette	INFO	Listening on port 42991
+1644204255363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644204256201	Marionette	INFO	Stopped listening on port 42991
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644204256309	geckodriver	INFO	Listening on 127.0.0.1:40217
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644204256316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53503" "-no-remote" "-profile" "/tmp/rust_mozprofileI6QtIG"
+1644204321337	geckodriver	INFO	Listening on 127.0.0.1:51605
+1644204321346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37551" "-no-remote" "-profile" "/tmp/rust_mozprofileLzCFju"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204322315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLzCFju/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37551/devtools/browser/f73af6e4-caad-47e1-bb8c-f001ce166247
+1644204324367	Marionette	INFO	Listening on port 38605
+1644204324506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1644204435514	geckodriver	INFO	Listening on 127.0.0.1:47779
+1644204435518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41009" "-no-remote" "-profile" "/tmp/rust_mozprofileYyfph9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204436470	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYyfph9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41009/devtools/browser/c61b013a-4724-4668-a9a9-60d642612a8e
+1644204438671	Marionette	INFO	Listening on port 45515
+1644204438749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644204521680	geckodriver	INFO	Listening on 127.0.0.1:35793
+1644204521688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33003" "-no-remote" "-profile" "/tmp/rust_mozprofile5xJ6Kc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204522643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5xJ6Kc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33003/devtools/browser/4e07b6c5-ea38-4f1c-9a8d-b292dd42433b
+1644204524628	Marionette	INFO	Listening on port 37803
+1644204524721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644204534536	Marionette	INFO	Stopped listening on port 37803
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644204534653	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+[2022-02-07T03:28:55Z ERROR glean] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644204544024	geckodriver	INFO	Listening on 127.0.0.1:40651
+1644204544036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52467" "-no-remote" "-profile" "/tmp/rust_mozprofile1Sw94A"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204545321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1Sw94A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52467/devtools/browser/59b27f7b-5c44-4428-ad90-4d8856fbc8e5
+1644204547449	Marionette	INFO	Listening on port 36493
+1644204547488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/31NrhU5N7JL._RC|21YblE14ZTL.js,01+oIQ0jY7L.js,21E2aIDj6DL.js,01OMNmu9KhL.js,4123BTTtUrL.js,31KcJDq3V3L.js,21NDIsf0a1L.js,015TRQC5i+L.js,61SzaOBhw5L.js,21fEFj3KHrL.js,01lcH4zcTaL.js,01OtvpwikQL.js,61e5NowCPCL.js,01qwoVEkKlL.js,01g2etah0NL.js,21v7Os12mhL.js,11PUEGgF9FL.js,11wTwl+500L.js,61INp0U6kmL.js,013eoEBTVUL.js,01YivelYW5L.js,016QFWAAdML.js,61KDTBjLkPL.js,51ABqf0IMEL.js,51WYQvFzjBL.js,01mrSGZKTXL.js,311A0yCIeJL.js,01iRN5bMQkL.js,419oP5pU4GL.js,51wiz1U2TQL.js,314Q6kQLBPL.js,011bX2ciJbL.js,21222B+rAzL.js,01gp3oqpb5L.js,31abTeO2myL.js,21-71xWjt2L.js,01zM73lDxwL.js,011kwg0OTQL.js,014kCoIHgIL.js,019W6kk1gjL.js,01acYp41-1L.js,31vAH8e0i1L.js,11CAJyRxleL.js,01fffmaF5CL.js,21Er8HCq4tL.js,21XpLghHRYL.js,31q-VNzB6aL.js,41Y74hvlWYL.js,11Xxd-w8V7L.js,31mQCBZ7pdL.js,01q-Ep-UrEL.js,01LsJn5eoxL.js,311lfj-j6wL.js,51SUDCqSQHL.js,01tx7ThnHlL.js,41WgeeSnuKL.js,21PXwPm43JL.js,21IQl4blS4L.js,11NVEDif1-L.js,019MkidFEWL.js,21f5DO5aY3L.js,61aC4ECFkWL.js,21R4scfPaqL.js,01RYN21w6TL.js,51u4Nvf6BNL.js_.js?AUIClients/USHardlinesDetailPageMetaAssetVariable_TURBO_DESKTOP_TradeIn&PZavUPOe#desktop.us.400285-T1.368079-T1.313053-T1.314612-T1.381936-T1.292695-C.395071-T1.398623-T1.140997-T1.342422-T1.378675-T1.368370-C.267691-T1.357453-T1.394753-T1.402915-T1.385371-T1.385369-T1.407739-T1.209620-T1.234665-T1.317281-T2.310975-T1.401111-T1.400581-T1.317627-T1.364202-T1.355278-T1.109378-T1.374658-T1.383367-T1.395180-T1.398799-T1.169593-T1.384832-T1.374244-T1.405464-T1.383069-T2.282422-T1, line 1785: uncaught exception: Resolved turbo checkout product state is undefined. Id = buy-now-button
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcheckoutportal%2Fenter-checkout.html%3Fie%3DUTF8%26asin%3DB076SHD1NH%26buyNow%3D1%26cartCustomerID%3D0%26fromSignIn%3D1%26fulfillmentType%3D%26isBuyBack%3D%26isGift%3D0%26offeringID%3DDrgU1xaDc888MGgjlzcEQ4foh6CJZERuSr%25252FhYZieLulSLlMg8MnKMvOhUuJxk%25252Fs5F5HzAc1zA8p79svibx9%25252BM%25252Bm5AmtuITQJx21w7QkH6iVvTxaRaiJvUUHMJUmiOde37%25252BxSMuQnonRJEkUcUSEQbg%25253D%25253D%26pickupAddressId%3D%26pickupStoreChainId%3D%26pickupStoreChainOwnerId%3D%26purchaseInputs%3DHASH%25280x995ae81c%2529%26quantity%3D1%26sessionID%3D141-1326782-4709111&pageId=amazon_checkout_us&showRmrMe=0&siteState=IMBMsgs.&suppressSignInRadioButtons=0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+1644204733217	geckodriver	INFO	Listening on 127.0.0.1:54715
+1644204733225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51879" "-no-remote" "-profile" "/tmp/rust_mozprofileTppTUQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204734170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTppTUQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51879/devtools/browser/ab857171-aa5e-4f81-8c94-a2e959b6cd7b
+1644204736265	Marionette	INFO	Listening on port 38239
+1644204736361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/714LddHwh4L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644204825036	geckodriver	INFO	Listening on 127.0.0.1:46427
+1644204825043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51835" "-no-remote" "-profile" "/tmp/rust_mozprofileUC2WAG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204826048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUC2WAG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51835/devtools/browser/50ff9d6f-1d15-4109-bf3d-5c3bc823d16b
+1644204828029	Marionette	INFO	Listening on port 36563
+1644204828089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644204902217	geckodriver	INFO	Listening on 127.0.0.1:33295
+1644204902226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57179" "-no-remote" "-profile" "/tmp/rust_mozprofileaXFZMJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204903208	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaXFZMJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57179/devtools/browser/97469497-5f1a-4294-9a58-227aba7dba78
+1644204905081	Marionette	INFO	Listening on port 46527
+1644204905158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644204950670	geckodriver	INFO	Listening on 127.0.0.1:54845
+1644204950678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39919" "-no-remote" "-profile" "/tmp/rust_mozprofileyWVZzf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204951668	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyWVZzf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39919/devtools/browser/1b8b03b6-2792-40bc-9c1d-56ed1e1ab16d
+1644204953732	Marionette	INFO	Listening on port 45601
+1644204953837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644204969991	Marionette	INFO	Stopped listening on port 45601
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644204971629	geckodriver	INFO	Listening on 127.0.0.1:55223
+1644204971635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57013" "-no-remote" "-profile" "/tmp/rust_mozprofileWl2HXC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644204972639	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWl2HXC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57013/devtools/browser/4bfd1989-a1ee-41b1-af6f-f480c3a781bf
+1644204974814	Marionette	INFO	Listening on port 39289
+1644204974864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644205140982	geckodriver	INFO	Listening on 127.0.0.1:37451
+1644205140988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53577" "-no-remote" "-profile" "/tmp/rust_mozprofilesr0KVK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644205142043	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesr0KVK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53577/devtools/browser/93bf0fca-dcfd-4f36-8fe1-fe31ae0a87b3
+1644205144396	Marionette	INFO	Listening on port 40993
+1644205144430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644205152935	Marionette	INFO	Stopped listening on port 39289
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644205158877	Marionette	INFO	Stopped listening on port 40993
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644205161604	Marionette	INFO	Stopped listening on port 46527
+1644205267407	geckodriver	INFO	Listening on 127.0.0.1:41225
+1644205267413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39463" "-no-remote" "-profile" "/tmp/rust_mozprofileH9ZSFK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644205268377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH9ZSFK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39463/devtools/browser/35bbc7c6-978f-4b8b-a979-e419b68bf70f
+1644205270328	Marionette	INFO	Listening on port 43995
+1644205270446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644205273836	Marionette	INFO	Stopped listening on port 36563
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/31NrhU5N7JL._RC|21YblE14ZTL.js,01+oIQ0jY7L.js,21E2aIDj6DL.js,01OMNmu9KhL.js,4123BTTtUrL.js,31KcJDq3V3L.js,21NDIsf0a1L.js,015TRQC5i+L.js,61SzaOBhw5L.js,21fEFj3KHrL.js,01lcH4zcTaL.js,01OtvpwikQL.js,61e5NowCPCL.js,01qwoVEkKlL.js,01g2etah0NL.js,21v7Os12mhL.js,11PUEGgF9FL.js,11wTwl+500L.js,61INp0U6kmL.js,013eoEBTVUL.js,01YivelYW5L.js,016QFWAAdML.js,61KDTBjLkPL.js,51ABqf0IMEL.js,51WYQvFzjBL.js,01mrSGZKTXL.js,311A0yCIeJL.js,01iRN5bMQkL.js,419oP5pU4GL.js,51wiz1U2TQL.js,314Q6kQLBPL.js,011bX2ciJbL.js,21222B+rAzL.js,01gp3oqpb5L.js,31abTeO2myL.js,21-71xWjt2L.js,01zM73lDxwL.js,011kwg0OTQL.js,014kCoIHgIL.js,019W6kk1gjL.js,01acYp41-1L.js,31vAH8e0i1L.js,11CAJyRxleL.js,01fffmaF5CL.js,21Er8HCq4tL.js,21XpLghHRYL.js,31q-VNzB6aL.js,41Y74hvlWYL.js,11Xxd-w8V7L.js,31mQCBZ7pdL.js,01q-Ep-UrEL.js,01LsJn5eoxL.js,311lfj-j6wL.js,51SUDCqSQHL.js,01tx7ThnHlL.js,41-48r9HE5L.js,21PXwPm43JL.js,21IQl4blS4L.js,11NVEDif1-L.js,019MkidFEWL.js,21f5DO5aY3L.js,61aC4ECFkWL.js,21R4scfPaqL.js,01RYN21w6TL.js,51u4Nvf6BNL.js_.js?AUIClients/USHardlinesDetailPageMetaAssetVariable_TURBO_DESKTOP_TradeIn&thrx3467#desktop.us.405680-T1.400285-T1.368079-T1.313053-T1.314612-T1.381936-T1.292695-C.395071-T1.398623-T1.140997-T1.342422-T1.378675-T1.368370-C.267691-T1.357453-T1.404656-T1.394753-T1.402915-T1.385371-T1.385369-T1.407739-T1.209620-T1.234665-T1.317281-T2.310975-T1.401111-T1.409748-T1.400581-T1.317627-T1.364202-T1.355278-T1.109378-T1.374658-T1.383367-T1.395180-T1.398799-T1.169593-T1.384832-T1.374244-T1.405464-T1.383069-T2.282422-T1, line 1785: uncaught exception: Resolved turbo checkout product state is undefined. Id = buy-now-button
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcheckoutportal%2Fenter-checkout.html%3Fie%3DUTF8%26asin%3DB076SHD1NH%26buyNow%3D1%26cartCustomerID%3D0%26fromSignIn%3D1%26fulfillmentType%3D%26isBuyBack%3D%26isGift%3D0%26offeringID%3DuPrbAgJ6%25252FSsnU1XTMYyfXAMbd5CsxPmigzAMKYfjfokKPUs6PlOeVYs1t2q9UfhrTTxGsnggsbOE92pEHPE1VwgAgnU%25252FxmnrNv4Hug1b0xWrmGQUCOqrzJy5YONzy%25252FWyjwy5hc2KSvtYwb8RvPm%25252FFw%25253D%25253D%26pickupAddressId%3D%26pickupStoreChainId%3D%26pickupStoreChainOwnerId%3D%26purchaseInputs%3DHASH%25280xa28e9d74%2529%26quantity%3D1%26sessionID%3D146-3394139-0065849&pageId=amazon_checkout_us&showRmrMe=0&siteState=IMBMsgs.&suppressSignInRadioButtons=0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644205587858	geckodriver	INFO	Listening on 127.0.0.1:48719
+1644205587867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34573" "-no-remote" "-profile" "/tmp/rust_mozprofileDWBWA0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644205588814	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDWBWA0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34573/devtools/browser/3d525649-130e-4da7-b172-a98f9f532982
+1644205590931	Marionette	INFO	Listening on port 39945
+1644205591008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644205601157	Marionette	INFO	Stopped listening on port 43995
+1644205612826	Marionette	INFO	Stopped listening on port 39945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644205614689	geckodriver	INFO	Listening on 127.0.0.1:34007
+1644205614693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53133" "-no-remote" "-profile" "/tmp/rust_mozprofile3jfF2h"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644205615689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3jfF2h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53133/devtools/browser/9aa3704b-a17e-4d66-a325-e2767f119aea
+1644205617671	Marionette	INFO	Listening on port 38267
+1644205617721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/31NrhU5N7JL._RC|21YblE14ZTL.js,01+oIQ0jY7L.js,21E2aIDj6DL.js,01OMNmu9KhL.js,4123BTTtUrL.js,31KcJDq3V3L.js,21NDIsf0a1L.js,015TRQC5i+L.js,61SzaOBhw5L.js,21fEFj3KHrL.js,01lcH4zcTaL.js,01OtvpwikQL.js,61e5NowCPCL.js,01qwoVEkKlL.js,01g2etah0NL.js,21v7Os12mhL.js,11PUEGgF9FL.js,11wTwl+500L.js,61INp0U6kmL.js,013eoEBTVUL.js,01YivelYW5L.js,016QFWAAdML.js,61KDTBjLkPL.js,51ABqf0IMEL.js,51WYQvFzjBL.js,01mrSGZKTXL.js,311A0yCIeJL.js,01iRN5bMQkL.js,419oP5pU4GL.js,51wiz1U2TQL.js,314Q6kQLBPL.js,011bX2ciJbL.js,21222B+rAzL.js,01gp3oqpb5L.js,31abTeO2myL.js,21-71xWjt2L.js,01zM73lDxwL.js,011kwg0OTQL.js,014kCoIHgIL.js,019W6kk1gjL.js,01acYp41-1L.js,31vAH8e0i1L.js,11CAJyRxleL.js,01fffmaF5CL.js,21Er8HCq4tL.js,21XpLghHRYL.js,31q-VNzB6aL.js,41Y74hvlWYL.js,11Xxd-w8V7L.js,31mQCBZ7pdL.js,01q-Ep-UrEL.js,01LsJn5eoxL.js,311lfj-j6wL.js,51SUDCqSQHL.js,01tx7ThnHlL.js,41963WCr71L.js,21PXwPm43JL.js,21IQl4blS4L.js,11NVEDif1-L.js,019MkidFEWL.js,21f5DO5aY3L.js,61aC4ECFkWL.js,21R4scfPaqL.js,01RYN21w6TL.js,51u4Nvf6BNL.js_.js?AUIClients/USHardlinesDetailPageMetaAssetVariable_TURBO_DESKTOP_TradeIn&mtnWmG5V#desktop.us.400285-T1.368079-T1.313053-T1.314612-T1.381936-T1.292695-C.395071-T1.398623-T1.140997-T1.342422-T1.378675-T1.368370-C.267691-T1.357453-T1.404656-T1.394753-T1.402915-T1.385371-T1.385369-T1.407739-T1.209620-T1.234665-T1.317281-T2.310975-T1.401111-T1.409748-T1.400581-T1.317627-T1.364202-T1.355278-T1.109378-T1.374658-T1.383367-T1.395180-T1.398799-T1.169593-T1.384832-T1.374244-T1.405464-T1.383069-T2.282422-T1, line 1785: uncaught exception: Resolved turbo checkout product state is undefined. Id = buy-now-button
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcheckoutportal%2Fenter-checkout.html%3Fie%3DUTF8%26asin%3DB076SHD1NH%26buyNow%3D1%26cartCustomerID%3D0%26fromSignIn%3D1%26fulfillmentType%3D%26isBuyBack%3D%26isGift%3D0%26offeringID%3DOTMT5Y%25252FfcOSXIdWa1%25252FKfUMucsRxaWO105gbvggiTOBcVdt%25252BTq%25252FKwWZZ74MqUxZsFyU4J%25252FiG1AFk8OMgK9s3irtP6tZj0yhsF9FAbmHCGRoHmoMS8oW6pF83v41VZLGprUGOcwdstvvb%25252FHP1ISRoLtA%25253D%25253D%26pickupAddressId%3D%26pickupStoreChainId%3D%26pickupStoreChainOwnerId%3D%26purchaseInputs%3DHASH%25280x98c5ae34%2529%26quantity%3D1%26sessionID%3D143-1243666-5995217&pageId=amazon_checkout_us&showRmrMe=0&siteState=IMBMsgs.&suppressSignInRadioButtons=0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644205682912	Marionette	INFO	Stopped listening on port 38267
+1644205685183	geckodriver	INFO	Listening on 127.0.0.1:47109
+1644205685187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38633" "-no-remote" "-profile" "/tmp/rust_mozprofileEvdo3c"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644205686145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEvdo3c/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38633/devtools/browser/f29b4f6d-fbb4-4051-a73c-0f765f1cdc86
+1644205688119	Marionette	INFO	Listening on port 44077
+1644205688222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/31NrhU5N7JL._RC|21YblE14ZTL.js,01+oIQ0jY7L.js,21E2aIDj6DL.js,01OMNmu9KhL.js,4123BTTtUrL.js,31KcJDq3V3L.js,21NDIsf0a1L.js,015TRQC5i+L.js,61SzaOBhw5L.js,21fEFj3KHrL.js,01lcH4zcTaL.js,01OtvpwikQL.js,61e5NowCPCL.js,01qwoVEkKlL.js,01g2etah0NL.js,21v7Os12mhL.js,11PUEGgF9FL.js,11wTwl+500L.js,61INp0U6kmL.js,013eoEBTVUL.js,01YivelYW5L.js,016QFWAAdML.js,61KDTBjLkPL.js,51ABqf0IMEL.js,51WYQvFzjBL.js,01mrSGZKTXL.js,311A0yCIeJL.js,01iRN5bMQkL.js,419oP5pU4GL.js,51wiz1U2TQL.js,314Q6kQLBPL.js,011bX2ciJbL.js,21222B+rAzL.js,01gp3oqpb5L.js,31abTeO2myL.js,21-71xWjt2L.js,01zM73lDxwL.js,011kwg0OTQL.js,014kCoIHgIL.js,019W6kk1gjL.js,01acYp41-1L.js,31vAH8e0i1L.js,11CAJyRxleL.js,01fffmaF5CL.js,21Er8HCq4tL.js,21XpLghHRYL.js,31q-VNzB6aL.js,41Y74hvlWYL.js,11Xxd-w8V7L.js,31mQCBZ7pdL.js,01q-Ep-UrEL.js,01LsJn5eoxL.js,311lfj-j6wL.js,51SUDCqSQHL.js,01tx7ThnHlL.js,41WgeeSnuKL.js,21PXwPm43JL.js,21IQl4blS4L.js,11NVEDif1-L.js,019MkidFEWL.js,21f5DO5aY3L.js,61aC4ECFkWL.js,21R4scfPaqL.js,01RYN21w6TL.js,51u4Nvf6BNL.js_.js?AUIClients/USHardlinesDetailPageMetaAssetVariable_TURBO_DESKTOP_TradeIn&BgU2G8Ed#desktop.us.400285-T1.368079-T1.313053-T1.314612-T1.381936-T1.292695-C.395071-T1.398623-T1.140997-T1.342422-T1.378675-T1.368370-C.267691-T1.357453-T1.404656-T1.394753-T1.402915-T1.385371-T1.385369-T1.407739-T1.209620-T1.234665-T1.317281-T2.310975-T1.401111-T1.400581-T1.317627-T1.364202-T1.355278-T1.109378-T1.374658-T1.383367-T1.395180-T1.398799-T1.169593-T1.384832-T1.374244-T1.405464-T1.383069-T2.282422-T1, line 1785: uncaught exception: Resolved turbo checkout product state is undefined. Id = buy-now-button
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcheckoutportal%2Fenter-checkout.html%3Fie%3DUTF8%26asin%3DB076SHD1NH%26buyNow%3D1%26cartCustomerID%3D0%26fromSignIn%3D1%26fulfillmentType%3D%26isBuyBack%3D%26isGift%3D0%26offeringID%3D0y5FCgyVeu6szvpSsmmm3mo%25252FQCmnSdieZBp%25252FZ9XMQYtck4qCcA95axIROb9tNOlyefZAHw5FhHb57T1qqHBTaZfJrZE4gDbCdWJH6XaFX0GQ%25252F5mcmk%25252FwCs66jBQOr9xyZouk%25252Bu%25252FkoUxzYTWqwuYsRw%25253D%25253D%26pickupAddressId%3D%26pickupStoreChainId%3D%26pickupStoreChainOwnerId%3D%26purchaseInputs%3DHASH%25280x9c654d14%2529%26quantity%3D1%26sessionID%3D132-2705407-8123948&pageId=amazon_checkout_us&showRmrMe=0&siteState=IMBMsgs.&suppressSignInRadioButtons=0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+1644205785270	Marionette	INFO	Stopped listening on port 44077
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644205796837	geckodriver	INFO	Listening on 127.0.0.1:60453
+1644205796845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45397" "-no-remote" "-profile" "/tmp/rust_mozprofile1ud2cr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644205797797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1ud2cr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45397/devtools/browser/3a22334b-1a65-4bf9-83d3-c0b6b2bbcd15
+1644205799862	Marionette	INFO	Listening on port 39803
+1644205799977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/31NrhU5N7JL._RC|21YblE14ZTL.js,01+oIQ0jY7L.js,21E2aIDj6DL.js,01OMNmu9KhL.js,4123BTTtUrL.js,31KcJDq3V3L.js,21NDIsf0a1L.js,015TRQC5i+L.js,61SzaOBhw5L.js,21fEFj3KHrL.js,01lcH4zcTaL.js,01OtvpwikQL.js,61e5NowCPCL.js,01qwoVEkKlL.js,01g2etah0NL.js,21v7Os12mhL.js,11PUEGgF9FL.js,11wTwl+500L.js,61INp0U6kmL.js,013eoEBTVUL.js,01YivelYW5L.js,016QFWAAdML.js,61KDTBjLkPL.js,51ABqf0IMEL.js,51WYQvFzjBL.js,01mrSGZKTXL.js,311A0yCIeJL.js,01iRN5bMQkL.js,419oP5pU4GL.js,51wiz1U2TQL.js,314Q6kQLBPL.js,011bX2ciJbL.js,21222B+rAzL.js,01gp3oqpb5L.js,31abTeO2myL.js,21-71xWjt2L.js,01zM73lDxwL.js,011kwg0OTQL.js,014kCoIHgIL.js,019W6kk1gjL.js,01acYp41-1L.js,31vAH8e0i1L.js,11CAJyRxleL.js,01fffmaF5CL.js,21Er8HCq4tL.js,21XpLghHRYL.js,31q-VNzB6aL.js,41Y74hvlWYL.js,11Xxd-w8V7L.js,31mQCBZ7pdL.js,01q-Ep-UrEL.js,01LsJn5eoxL.js,311lfj-j6wL.js,51SUDCqSQHL.js,01tx7ThnHlL.js,41WgeeSnuKL.js,21PXwPm43JL.js,21IQl4blS4L.js,11NVEDif1-L.js,019MkidFEWL.js,21f5DO5aY3L.js,61aC4ECFkWL.js,21R4scfPaqL.js,01RYN21w6TL.js,51u4Nvf6BNL.js_.js?AUIClients/USHardlinesDetailPageMetaAssetVariable_TURBO_DESKTOP_TradeIn&BgU2G8Ed#desktop.us.400285-T1.368079-T1.313053-T1.314612-T1.381936-T1.292695-C.395071-T1.398623-T1.140997-T1.342422-T1.378675-T1.368370-C.267691-T1.357453-T1.404656-T1.394753-T1.402915-T1.385371-T1.385369-T1.407739-T1.209620-T1.234665-T1.317281-T2.310975-T1.401111-T1.400581-T1.317627-T1.364202-T1.355278-T1.109378-T1.374658-T1.383367-T1.395180-T1.398799-T1.169593-T1.384832-T1.374244-T1.405464-T1.383069-T2.282422-T1, line 1785: uncaught exception: Resolved turbo checkout product state is undefined. Id = buy-now-button
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcheckoutportal%2Fenter-checkout.html%3Fie%3DUTF8%26asin%3DB076SHD1NH%26buyNow%3D1%26cartCustomerID%3D0%26fromSignIn%3D1%26fulfillmentType%3D%26isBuyBack%3D%26isGift%3D0%26offeringID%3Do1AV7WQXu5%25252FjfOcJpXaR%25252BQif%25252Bejb%25252FpJH%25252BEqx%25252F4AtkRUYSWc0dHwM6pz2198Y1q2XUcKFhav7CGKlogxo0fP0v%25252Bb0Y2tRuUAHKITptS8VDj64ut6798HBg3j5wANBnQojLG10tP%25252FiYAxI7nwT%25252FSKRFw%25253D%25253D%26pickupAddressId%3D%26pickupStoreChainId%3D%26pickupStoreChainOwnerId%3D%26purchaseInputs%3DHASH%25280x90964dec%2529%26quantity%3D1%26sessionID%3D137-9301352-8551511&pageId=amazon_checkout_us&showRmrMe=0&siteState=IMBMsgs.&suppressSignInRadioButtons=0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644205914714	Marionette	INFO	Stopped listening on port 39803
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644205918825	geckodriver	INFO	Listening on 127.0.0.1:56661
+1644205918833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33119" "-no-remote" "-profile" "/tmp/rust_mozprofileQxeU1P"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644205919820	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQxeU1P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33119/devtools/browser/458723e8-2124-4238-b074-82e3c2eca207
+1644205921723	Marionette	INFO	Listening on port 36669
+1644205921773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/31NrhU5N7JL._RC|21YblE14ZTL.js,01+oIQ0jY7L.js,21E2aIDj6DL.js,01OMNmu9KhL.js,4123BTTtUrL.js,31KcJDq3V3L.js,21NDIsf0a1L.js,015TRQC5i+L.js,61SzaOBhw5L.js,21fEFj3KHrL.js,01lcH4zcTaL.js,01OtvpwikQL.js,61e5NowCPCL.js,01qwoVEkKlL.js,01g2etah0NL.js,21v7Os12mhL.js,11PUEGgF9FL.js,11wTwl+500L.js,61INp0U6kmL.js,013eoEBTVUL.js,01YivelYW5L.js,016QFWAAdML.js,61KDTBjLkPL.js,51ABqf0IMEL.js,51WYQvFzjBL.js,01mrSGZKTXL.js,311A0yCIeJL.js,01iRN5bMQkL.js,419oP5pU4GL.js,51wiz1U2TQL.js,314Q6kQLBPL.js,011bX2ciJbL.js,21222B+rAzL.js,01gp3oqpb5L.js,31abTeO2myL.js,21-71xWjt2L.js,01zM73lDxwL.js,011kwg0OTQL.js,014kCoIHgIL.js,019W6kk1gjL.js,01acYp41-1L.js,31vAH8e0i1L.js,11CAJyRxleL.js,01fffmaF5CL.js,21Er8HCq4tL.js,21XpLghHRYL.js,31q-VNzB6aL.js,41Y74hvlWYL.js,11Xxd-w8V7L.js,31mQCBZ7pdL.js,01q-Ep-UrEL.js,01LsJn5eoxL.js,311lfj-j6wL.js,51SUDCqSQHL.js,01tx7ThnHlL.js,41AIrlF+R-L.js,21PXwPm43JL.js,21IQl4blS4L.js,11NVEDif1-L.js,019MkidFEWL.js,21f5DO5aY3L.js,61aC4ECFkWL.js,21R4scfPaqL.js,01RYN21w6TL.js,51u4Nvf6BNL.js_.js?AUIClients/USHardlinesDetailPageMetaAssetVariable_TURBO_DESKTOP_TradeIn&tJZ+rvbc#desktop.us.405680-T1.400285-T1.368079-T1.313053-T1.314612-T1.381936-T1.292695-C.395071-T1.398623-T1.140997-T1.342422-T1.378675-T1.368370-C.267691-T1.357453-T1.394753-T1.402915-T1.385371-T1.385369-T1.407739-T1.209620-T1.234665-T1.317281-T2.310975-T1.401111-T1.400581-T1.317627-T1.364202-T1.355278-T1.109378-T1.374658-T1.383367-T1.395180-T1.398799-T1.169593-T1.384832-T1.374244-T1.405464-T1.383069-T2.282422-T1, line 1785: uncaught exception: Resolved turbo checkout product state is undefined. Id = buy-now-button
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcheckoutportal%2Fenter-checkout.html%3Fie%3DUTF8%26asin%3DB076SHD1NH%26buyNow%3D1%26cartCustomerID%3D0%26fromSignIn%3D1%26fulfillmentType%3D%26isBuyBack%3D%26isGift%3D0%26offeringID%3DbG%25252B54mQFXaecdn1EQTur9iSGQdZLZGqt79YxL5ZNig%25252B5zK%25252Bhum2%25252FOJj3Xi5bsk8PdU3HmHDTNKvf5TaHKsHBN4n%25252FT%25252BIIQc2jBcvXdte6r1RGYT9sVqXfslqeAMebb86rRDF19xskA63M88CZWPedhw%25253D%25253D%26pickupAddressId%3D%26pickupStoreChainId%3D%26pickupStoreChainOwnerId%3D%26purchaseInputs%3DHASH%25280x9e300240%2529%26quantity%3D1%26sessionID%3D138-8937298-7939028&pageId=amazon_checkout_us&showRmrMe=0&siteState=IMBMsgs.&suppressSignInRadioButtons=0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644206197258	Marionette	INFO	Stopped listening on port 36669
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644206201222	geckodriver	INFO	Listening on 127.0.0.1:56215
+1644206201231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33487" "-no-remote" "-profile" "/tmp/rust_mozprofilelCBRj8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644206202214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelCBRj8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33487/devtools/browser/139bcf10-175f-4423-9062-2e76add91104
+1644206204310	Marionette	INFO	Listening on port 45567
+1644206204364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/714LddHwh4L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644206440019	geckodriver	INFO	Listening on 127.0.0.1:46821
+1644206440027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37863" "-no-remote" "-profile" "/tmp/rust_mozprofileCxMWf9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644206441021	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCxMWf9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37863/devtools/browser/5b65600d-c500-45c5-b7dc-2622456a11e1
+1644206443160	Marionette	INFO	Listening on port 34703
+1644206443260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644206446614	Marionette	INFO	Stopped listening on port 45567
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/31NrhU5N7JL._RC|21YblE14ZTL.js,01+oIQ0jY7L.js,21E2aIDj6DL.js,01OMNmu9KhL.js,4123BTTtUrL.js,31KcJDq3V3L.js,21NDIsf0a1L.js,015TRQC5i+L.js,61SzaOBhw5L.js,21fEFj3KHrL.js,01lcH4zcTaL.js,01OtvpwikQL.js,61e5NowCPCL.js,01qwoVEkKlL.js,01g2etah0NL.js,21v7Os12mhL.js,11PUEGgF9FL.js,11wTwl+500L.js,61INp0U6kmL.js,013eoEBTVUL.js,01YivelYW5L.js,016QFWAAdML.js,61KDTBjLkPL.js,51ABqf0IMEL.js,51WYQvFzjBL.js,01mrSGZKTXL.js,311A0yCIeJL.js,01iRN5bMQkL.js,419oP5pU4GL.js,51wiz1U2TQL.js,314Q6kQLBPL.js,011bX2ciJbL.js,21222B+rAzL.js,01gp3oqpb5L.js,31abTeO2myL.js,21-71xWjt2L.js,01zM73lDxwL.js,011kwg0OTQL.js,014kCoIHgIL.js,019W6kk1gjL.js,01acYp41-1L.js,31vAH8e0i1L.js,11CAJyRxleL.js,01fffmaF5CL.js,21Er8HCq4tL.js,21XpLghHRYL.js,31q-VNzB6aL.js,41Y74hvlWYL.js,11Xxd-w8V7L.js,31mQCBZ7pdL.js,01q-Ep-UrEL.js,01LsJn5eoxL.js,311lfj-j6wL.js,51SUDCqSQHL.js,01tx7ThnHlL.js,41WgeeSnuKL.js,21PXwPm43JL.js,21IQl4blS4L.js,11NVEDif1-L.js,019MkidFEWL.js,21f5DO5aY3L.js,61aC4ECFkWL.js,21R4scfPaqL.js,01RYN21w6TL.js,51u4Nvf6BNL.js_.js?AUIClients/USHardlinesDetailPageMetaAssetVariable_TURBO_DESKTOP_TradeIn&BgU2G8Ed#desktop.us.400285-T1.368079-T1.313053-T1.314612-T1.381936-T1.292695-C.395071-T1.398623-T1.140997-T1.342422-T1.378675-T1.368370-C.267691-T1.357453-T1.404656-T1.394753-T1.402915-T1.385371-T1.385369-T1.407739-T1.209620-T1.234665-T1.317281-T2.310975-T1.401111-T1.400581-T1.317627-T1.364202-T1.355278-T1.109378-T1.374658-T1.383367-T1.395180-T1.398799-T1.169593-T1.384832-T1.374244-T1.405464-T1.383069-T2.282422-T1, line 1785: uncaught exception: Resolved turbo checkout product state is undefined. Id = buy-now-button
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcheckoutportal%2Fenter-checkout.html%3Fie%3DUTF8%26asin%3DB076SHD1NH%26buyNow%3D1%26cartCustomerID%3D0%26fromSignIn%3D1%26fulfillmentType%3D%26isBuyBack%3D%26isGift%3D0%26offeringID%3DaY9LQO5eErmiS51LE8top23zAG%25252Bz2MpSwzPkZ9QVzuYU3zLN1VVBOLNl7RVT4H%25252FF2ImukzPT6rGBJhMSPtwBpqD0euyXiMZSaF35H2S%25252BoJT9CTrjQpxoaKZTjDhiS0255YuOf%25252F94rSRe724q%25252Fztywg%25253D%25253D%26pickupAddressId%3D%26pickupStoreChainId%3D%26pickupStoreChainOwnerId%3D%26purchaseInputs%3DHASH%25280xa066c774%2529%26quantity%3D1%26sessionID%3D134-9408545-8206157&pageId=amazon_checkout_us&showRmrMe=0&siteState=IMBMsgs.&suppressSignInRadioButtons=0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/ap/signin line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81UNYn554pL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcheckoutportal%2Fenter-checkout.html%3Fie%3DUTF8%26asin%3DB076SHD1NH%26buyNow%3D1%26cartCustomerID%3D0%26fromSignIn%3D1%26fulfillmentType%3D%26isBuyBack%3D%26isGift%3D0%26offeringID%3DaY9LQO5eErmiS51LE8top23zAG%25252Bz2MpSwzPkZ9QVzuYU3zLN1VVBOLNl7RVT4H%25252FF2ImukzPT6rGBJhMSPtwBpqD0euyXiMZSaF35H2S%25252BoJT9CTrjQpxoaKZTjDhiS0255YuOf%25252F94rSRe724q%25252Fztywg%25253D%25253D%26pickupAddressId%3D%26pickupStoreChainId%3D%26pickupStoreChainOwnerId%3D%26purchaseInputs%3DHASH%25280xa066c774%2529%26quantity%3D1%26sessionID%3D134-9408545-8206157&pageId=amazon_checkout_us&showRmrMe=0&siteState=IMBMsgs.&suppressSignInRadioButtons=0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+1644206540085	geckodriver	INFO	Listening on 127.0.0.1:41233
+1644206540089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43077" "-no-remote" "-profile" "/tmp/rust_mozprofileDtfT63"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644206541065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDtfT63/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43077/devtools/browser/a958ed6b-ff0d-4561-9b48-919f257fa823
+1644206543141	Marionette	INFO	Listening on port 45629
+1644206543218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644206545011	Marionette	INFO	Stopped listening on port 34703
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644207328879	Marionette	INFO	Stopped listening on port 45629
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644207421590	geckodriver	INFO	Listening on 127.0.0.1:36319
+1644207421598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33537" "-no-remote" "-profile" "/tmp/rust_mozprofiledkf7QG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644207422535	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledkf7QG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33537/devtools/browser/894da419-b361-42d8-8f94-2f5147f16465
+1644207424608	Marionette	INFO	Listening on port 43901
+1644207424636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=Ce505bc57-f990-477e-b657-2695b0359391,1&cartObjectKey=AN3XPVS62RDYBMXC2ZTE line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/product/B000SATIFA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644207666503	geckodriver	INFO	Listening on 127.0.0.1:50275
+1644207666510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58923" "-no-remote" "-profile" "/tmp/rust_mozprofileil9pHm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644207667492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileil9pHm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58923/devtools/browser/b9aa8e83-a4e1-484a-8bf9-ad17576b0e13
+1644207669442	Marionette	INFO	Listening on port 43271
+1644207669549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644207671469	Marionette	INFO	Stopped listening on port 43901
+1644207679163	Marionette	INFO	Stopped listening on port 43271
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644207696853	geckodriver	INFO	Listening on 127.0.0.1:41745
+1644207696861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36505" "-no-remote" "-profile" "/tmp/rust_mozprofileSOv31H"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644207697791	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSOv31H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36505/devtools/browser/bc97205a-2d84-4b18-9bf6-bace6aff5a95
+1644207699920	Marionette	INFO	Listening on port 43573
+1644207700017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B076SHD1NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=C0470a9f6-05cc-41e1-9e00-d71aa1aff41f,1&cartObjectKey=60VXV1Q48QG5CD86K1G1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/product/B000SATIFA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644208283031	geckodriver	INFO	Listening on 127.0.0.1:49207
+1644208283035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33591" "-no-remote" "-profile" "/tmp/rust_mozprofile0nccGe"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644208284036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0nccGe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33591/devtools/browser/d9581ad6-f164-4066-b448-9486b3c708d0
+1644208286208	Marionette	INFO	Listening on port 35883
+1644208286270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644208347076	Marionette	INFO	Stopped listening on port 35883
+1644208455678	geckodriver	INFO	Listening on 127.0.0.1:43647
+1644208456186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40277" "-no-remote" "-profile" "/tmp/rust_mozprofileVLRxmh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644208457153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVLRxmh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40277/devtools/browser/0cfceffa-871d-44fc-8f60-2edfea22655c
+1644208459345	Marionette	INFO	Listening on port 34281
+1644208459418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644208464117	Marionette	INFO	Stopped listening on port 34281
+1644208520806	geckodriver	INFO	Listening on 127.0.0.1:40997
+1644208521313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54991" "-no-remote" "-profile" "/tmp/rust_mozprofileUw9Puf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644208522254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUw9Puf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54991/devtools/browser/14af9fe6-a622-4099-8a09-4b9bf6a21cff
+1644208524411	Marionette	INFO	Listening on port 42447
+1644208524447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644208527206	Marionette	INFO	Stopped listening on port 42447
+1644208616988	geckodriver	INFO	Listening on 127.0.0.1:41133
+1644208617493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43257" "-no-remote" "-profile" "/tmp/rust_mozprofileLFfePP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644208618465	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLFfePP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43257/devtools/browser/a969edc5-dc59-479f-8a17-5b712ac8495f
+1644208620577	Marionette	INFO	Listening on port 36457
+1644208620617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644208622644	Marionette	INFO	Stopped listening on port 36457
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 131))
+1644208751020	geckodriver	INFO	Listening on 127.0.0.1:59491
+1644208751023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39247" "-no-remote" "-profile" "/tmp/rust_mozprofileVArG3L"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644208751989	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVArG3L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39247/devtools/browser/bb6da103-2e8b-44d9-b9c2-e307c8ea4ffe
+1644208754053	Marionette	INFO	Listening on port 46843
+1644208754159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1644208877468	Marionette	INFO	Stopped listening on port 43573
+1644208880108	geckodriver	INFO	Listening on 127.0.0.1:58291
+1644208880616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47443" "-no-remote" "-profile" "/tmp/rust_mozprofileOouFNO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644208881538	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOouFNO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47443/devtools/browser/f8402939-dc1d-4f88-958e-ad21ca59ab02
+1644208883543	Marionette	INFO	Listening on port 40991
+1644208883650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1644245514300	geckodriver	INFO	Listening on 127.0.0.1:50725
+1644245514303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48109" "-no-remote" "-profile" "/tmp/rust_mozprofileotLIJg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644245515265	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileotLIJg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48109/devtools/browser/7fe6fd21-e90e-42f0-805a-f8c8a2aeeeb6
+1644245517247	Marionette	INFO	Listening on port 39959
+1644245517335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/714LddHwh4L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644245571268	geckodriver	INFO	Listening on 127.0.0.1:38313
+1644245571271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44139" "-no-remote" "-profile" "/tmp/rust_mozprofileTsr6Fk"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644245572199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTsr6Fk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44139/devtools/browser/48fdb806-6930-442a-80c4-8fc1b9ee8dd6
+1644245573936	Marionette	INFO	Listening on port 41091
+1644245574002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/714LddHwh4L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644245726398	geckodriver	INFO	Listening on 127.0.0.1:39563
+1644245726403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55183" "-no-remote" "-profile" "/tmp/rust_mozprofileM5adgf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644245727369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM5adgf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55183/devtools/browser/dfab16bb-4120-4b98-8164-0e3b274a2d71
+1644245729353	Marionette	INFO	Listening on port 35535
+1644245729432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644245757182	Marionette	INFO	Stopped listening on port 41091
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644245758038	Marionette	INFO	Stopped listening on port 35535
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644245766730	geckodriver	INFO	Listening on 127.0.0.1:39105
+1644245766733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38055" "-no-remote" "-profile" "/tmp/rust_mozprofile7ySdxi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644245767648	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7ySdxi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38055/devtools/browser/c9d41841-1a33-4006-90bb-e4381553f784
+1644245769577	Marionette	INFO	Listening on port 40795
+1644245769663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644245813756	geckodriver	INFO	Listening on 127.0.0.1:38365
+1644245813761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44491" "-no-remote" "-profile" "/tmp/rust_mozprofilePqBlLT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644245814718	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePqBlLT/search.json.mozlz4", (void 0)))
+1644245816681	Marionette	INFO	Stopped listening on port 40795
+DevTools listening on ws://localhost:44491/devtools/browser/60a6ed21-ea25-47c7-adec-839882f640f6
+1644245816975	Marionette	INFO	Listening on port 34595
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644245817102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=C26427099-5430-45e4-bd58-72398706cbf3,1&cartObjectKey=EQST7QJRYNHHQXW9TFE1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644245833244	Marionette	INFO	Stopped listening on port 34595
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644245931213	geckodriver	INFO	Listening on 127.0.0.1:55233
+1644245931720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49013" "-no-remote" "-profile" "/tmp/rust_mozprofilez85A2L"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644245932692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez85A2L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49013/devtools/browser/4495789f-1d41-42e2-bfb0-c0b6d53d1e87
+1644245934711	Marionette	INFO	Listening on port 46413
+1644245934750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=Cf9c8893b-536f-47a8-9888-fadfe09b9c4e,1&cartObjectKey=WGB571M700X5YHW9JTGR line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/gp/product/B000SATIFA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644246193023	geckodriver	INFO	Listening on 127.0.0.1:51313
+1644246193026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58903" "-no-remote" "-profile" "/tmp/rust_mozprofileAWOW3D"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644246193942	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAWOW3D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58903/devtools/browser/b1adac40-9787-4706-b8d0-92ef86fc36ea
+1644246195838	Marionette	INFO	Listening on port 46375
+1644246195955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=Cb4fb8dab-89ac-4515-aee6-96e80af0e08c,1&cartObjectKey=82GEN5BRFZSTP7KCAXZB line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/product/B000SATIFA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644246325703	geckodriver	INFO	Listening on 127.0.0.1:34523
+1644246325707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45493" "-no-remote" "-profile" "/tmp/rust_mozprofileHSliNa"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644246326623	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHSliNa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45493/devtools/browser/c50b2ae2-69e2-4f1b-8785-293e5428fb87
+1644246328684	Marionette	INFO	Listening on port 40847
+1644246328743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=C3bcdc3a0-cb21-49b9-b9cf-f6d3e726ee99,1&cartObjectKey=MG0B1607VAPXCKFCNVQM line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/gp/product/B000SATIFA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1644246544456	geckodriver	INFO	Listening on 127.0.0.1:42729
+1644246544463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39279" "-no-remote" "-profile" "/tmp/rust_mozprofileHYVo5k"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644246545420	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHYVo5k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39279/devtools/browser/111541bb-9ab9-4422-815a-f28cb98cf5f3
+1644246547435	Marionette	INFO	Listening on port 46359
+1644246547495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=Cbebece76-63b5-4495-a38e-9384c2a74241,1&cartObjectKey=H15TDXGMN1XS9BEDEK1V line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/714LddHwh4L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644246872386	geckodriver	INFO	Listening on 127.0.0.1:53803
+1644246872892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56249" "-no-remote" "-profile" "/tmp/rust_mozprofilek4nTQ9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644246873806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek4nTQ9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56249/devtools/browser/c207e10b-aae6-46d1-b4b8-e9b3da7e7f42
+1644246875686	Marionette	INFO	Listening on port 39635
+1644246875719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644246885110	Marionette	INFO	Stopped listening on port 39635
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644246885325	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+[2022-02-07T15:14:45Z ERROR glean] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1644246891414	geckodriver	INFO	Listening on 127.0.0.1:49871
+1644246891417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50169" "-no-remote" "-profile" "/tmp/rust_mozprofile2a79rY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644246892338	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2a79rY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50169/devtools/browser/3a01c368-c369-47e3-b1db-5b7d7b113779
+1644246894172	Marionette	INFO	Listening on port 38553
+1644246894293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=C176e73bc-5cd8-48db-9fab-8a6b62d36adb,1&cartObjectKey=WJJZ6BXJRGA097K87G2B line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/product/B000SATIFA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=C331ecee1-4015-4fda-819b-c9e348b70d56,1&cartObjectKey=JACHSQFD4D47T00NERBV line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/product/B000SANUF4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=C603325b1-dbe0-4a50-b047-472cb776d715,1&cartObjectKey=RDFT2Y839S167R29MW2C line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644247112373	geckodriver	INFO	Listening on 127.0.0.1:54617
+1644247112376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50247" "-no-remote" "-profile" "/tmp/rust_mozprofileoYhoXA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644247113325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoYhoXA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50247/devtools/browser/73f0acde-679d-4634-94c6-af8cb57a9add
+1644247115392	Marionette	INFO	Listening on port 46877
+1644247115507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644247123042	Marionette	INFO	Stopped listening on port 46877
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644247128931	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1644247138372	geckodriver	INFO	Listening on 127.0.0.1:43925
+1644247138375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39517" "-no-remote" "-profile" "/tmp/rust_mozprofileYB1jjM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644247139331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYB1jjM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39517/devtools/browser/805a881a-de65-4928-9908-c94a5162df91
+1644247141380	Marionette	INFO	Listening on port 45255
+1644247141426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644247144697	Marionette	INFO	Stopped listening on port 45255
+1644247189088	geckodriver	INFO	Listening on 127.0.0.1:35403
+1644247189091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44451" "-no-remote" "-profile" "/tmp/rust_mozprofileGF0u71"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644247190092	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGF0u71/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44451/devtools/browser/890adcf2-770b-4374-b530-1ef3384cdc7a
+1644247191984	Marionette	INFO	Listening on port 41941
+1644247192036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644247193904	Marionette	INFO	Stopped listening on port 41941
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 131))
+1644247965228	Marionette	INFO	Stopped listening on port 38553
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644338021447	geckodriver	INFO	Listening on 127.0.0.1:50489
+1644338021451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43063" "-no-remote" "-profile" "/tmp/rust_mozprofiledqDlfu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644338022376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledqDlfu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43063/devtools/browser/0542bb4d-62f5-4a96-a38a-e101d31dcdcc
+1644338024418	Marionette	INFO	Listening on port 44209
+1644338024486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/714LddHwh4L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644338055359	Marionette	INFO	Stopped listening on port 44209
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644338057342	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1644338076878	geckodriver	INFO	Listening on 127.0.0.1:41599
+1644338077384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48331" "-no-remote" "-profile" "/tmp/rust_mozprofileHQXoAx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644338078332	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHQXoAx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48331/devtools/browser/e265ff1d-34c7-4106-968c-32cb06887d25
+1644338080309	Marionette	INFO	Listening on port 36561
+1644338080417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644338091480	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://images-na.ssl-images-amazon.com/images/I/61XKxrBtDVL.js?AUIClients/AmazonUIjQuery:177:19
+ajax@https://images-na.ssl-images-amazon.com/images/I/61XKxrBtDVL.js?AUIClients/AmazonUIjQuery:171:185
+@https://d1nruqhae353qc.cloudfront.net/primesignup/widget.js?_=1644338090261:185:15
+l@https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1:90:228
+Z/</<@https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1:92:72
+ja@https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1:95:116
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/gp/product/B000SATIFA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=Cb2e6bae0-f239-47af-83cb-87320c77def4,1&cartObjectKey=AZ84NY3Q6QY7GARXJ8FS line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/product/B07JWBXNW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=C93cbdab4-d268-41d3-b09f-b45f69134b48,1&cartObjectKey=4BPB18HJ4TW0DEVX1ZZG line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/product/B000SATIFA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644338122855	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=Cb2e6bae0-f239-47af-83cb-87320c77def4,1&cartObjectKey=286Q3XCEQSJZ0TJMKMDA line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/product/B000SANUF4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644338130996	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+mesa: for the --structurizecfg-skip-uniform-regions option: may only occur zero or one times!
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=C7af8a4f4-a36e-49a2-9e07-a97c6f2a9c2f,1&cartObjectKey=W188F060WDJAZT7Y6N0A line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644338362775	Marionette	INFO	Stopped listening on port 36561
+1644426713446	geckodriver	INFO	Listening on 127.0.0.1:40437
+1644426713451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60771" "-no-remote" "-profile" "/tmp/rust_mozprofileZfxnlT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644426714823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZfxnlT/search.json.mozlz4", (void 0)))
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036

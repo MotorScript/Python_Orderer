@@ -6,7 +6,6 @@ import json
 import re
 import modules
 
-# from Scraper import scraper
 
 load_dotenv()
 api_key = os.getenv("API_KEY")

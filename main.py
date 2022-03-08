@@ -1,9 +1,7 @@
-from sys import api_version
 import requests
 from dotenv import load_dotenv
 import os
 import json
-import re
 import modules
 
 
@@ -42,5 +40,5 @@ tea_inv = modules.get_tea()
 
 modules.order_items(tea_inv)
 
-modules.create_worksheet("tea_inventory.json")
+# modules.create_worksheet("tea_inventory.json")
 

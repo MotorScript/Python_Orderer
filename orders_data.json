@@ -44,8 +44,8 @@
           "productName": "PIRMARK THORNLESS BLACKBERRY CUTINGS",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "17.50",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "17.50"
           },
           "variantOptions": [
             {
@@ -63,8 +63,8 @@
         {
           "method": "weight shipping",
           "amount": {
-            "value": "7.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "7.00"
           }
         }
       ],
@@ -72,28 +72,28 @@
       "formSubmission": null,
       "fulfillments": [],
       "subtotal": {
-        "value": "17.50",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "17.50"
       },
       "shippingTotal": {
-        "value": "7.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "7.00"
       },
       "discountTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "taxTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "refundedTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "grandTotal": {
-        "value": "24.50",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "24.50"
       },
       "channelName": "Squarespace",
       "externalOrderReference": null,
@@ -144,8 +144,8 @@
           "productName": "ADAMS ELDERBERRYS CUTINGS",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "15.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "15.00"
           },
           "variantOptions": [
             {
@@ -163,8 +163,8 @@
         {
           "method": "weight shipping",
           "amount": {
-            "value": "7.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "7.00"
           }
         }
       ],
@@ -172,28 +172,28 @@
       "formSubmission": null,
       "fulfillments": [],
       "subtotal": {
-        "value": "15.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "15.00"
       },
       "shippingTotal": {
-        "value": "7.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "7.00"
       },
       "discountTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "taxTotal": {
-        "value": "1.23",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "1.23"
       },
       "refundedTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "grandTotal": {
-        "value": "23.23",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "23.23"
       },
       "channelName": "Squarespace",
       "externalOrderReference": null,
@@ -244,8 +244,8 @@
           "productName": "ADAMS ELDERBERRYS CUTINGS",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "17.50",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "17.50"
           },
           "variantOptions": [
             {
@@ -263,8 +263,8 @@
         {
           "method": "weight shipping",
           "amount": {
-            "value": "7.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "7.00"
           }
         }
       ],
@@ -272,28 +272,28 @@
       "formSubmission": null,
       "fulfillments": [],
       "subtotal": {
-        "value": "17.50",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "17.50"
       },
       "shippingTotal": {
-        "value": "7.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "7.00"
       },
       "discountTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "taxTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "refundedTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "grandTotal": {
-        "value": "24.50",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "24.50"
       },
       "channelName": "Squarespace",
       "externalOrderReference": null,
@@ -344,8 +344,8 @@
           "productName": "Black Mulberry Tree",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "15.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "15.00"
           },
           "variantOptions": [
             {
@@ -369,8 +369,8 @@
           "productName": "ADAMS ELDERBERRYS CUTINGS",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "15.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "15.00"
           },
           "variantOptions": [
             {
@@ -394,8 +394,8 @@
           "productName": "PIRMARK THORNLESS BLACKBERRY CUTINGS",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "15.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "15.00"
           },
           "variantOptions": [
             {
@@ -419,8 +419,8 @@
           "productName": "Phoenix Tears Goji Berry",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "15.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "15.00"
           },
           "variantOptions": [],
           "customizations": null,
@@ -433,8 +433,8 @@
         {
           "method": "weight shipping",
           "amount": {
-            "value": "12.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "12.00"
           }
         }
       ],
@@ -442,28 +442,28 @@
       "formSubmission": null,
       "fulfillments": [],
       "subtotal": {
-        "value": "60.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "60.00"
       },
       "shippingTotal": {
-        "value": "12.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "12.00"
       },
       "discountTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "taxTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "refundedTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "grandTotal": {
-        "value": "72.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "72.00"
       },
       "channelName": "Squarespace",
       "externalOrderReference": null,
@@ -514,8 +514,8 @@
           "productName": "Farm House Vintage Tie Apron",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "30.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "30.00"
           },
           "variantOptions": [
             {
@@ -539,8 +539,8 @@
           "productName": "Little Girl Aprons",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "20.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "20.00"
           },
           "variantOptions": [
             {
@@ -572,8 +572,8 @@
           "productName": "NATIVE Orgainc Chocolate Chai Tea",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "13.50",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "13.50"
           },
           "variantOptions": [
             {
@@ -595,8 +595,8 @@
         {
           "method": "weight shipping",
           "amount": {
-            "value": "9.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "9.00"
           }
         }
       ],
@@ -604,28 +604,28 @@
       "formSubmission": null,
       "fulfillments": [],
       "subtotal": {
-        "value": "63.50",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "63.50"
       },
       "shippingTotal": {
-        "value": "9.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "9.00"
       },
       "discountTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "taxTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "refundedTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "grandTotal": {
-        "value": "72.50",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "72.50"
       },
       "channelName": "Squarespace",
       "externalOrderReference": null,
@@ -676,8 +676,8 @@
           "productName": "Carmel Coffee Medium Roast",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "60.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "60.00"
           },
           "variantOptions": [
             {
@@ -701,8 +701,8 @@
           "productName": "COOKIE DOODLE COFFEE",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "60.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "60.00"
           },
           "variantOptions": [
             {
@@ -726,8 +726,8 @@
           "productName": "Lemon Honey Pearls Candy",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "12.50",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "12.50"
           },
           "variantOptions": [],
           "customizations": null,
@@ -746,8 +746,8 @@
           "productName": "HOME MADE Natural Chemical Free Laundry Soap",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "28.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "28.00"
           },
           "variantOptions": [
             {
@@ -769,8 +769,8 @@
         {
           "method": "weight shipping",
           "amount": {
-            "value": "17.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "17.00"
           }
         }
       ],
@@ -778,28 +778,28 @@
       "formSubmission": null,
       "fulfillments": [],
       "subtotal": {
-        "value": "160.50",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "160.50"
       },
       "shippingTotal": {
-        "value": "17.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "17.00"
       },
       "discountTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "taxTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "refundedTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "grandTotal": {
-        "value": "177.50",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "177.50"
       },
       "channelName": "Squarespace",
       "externalOrderReference": null,
@@ -850,8 +850,8 @@
           "productName": "PIRMARK THORNLESS BLACKBERRY CUTINGS",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "17.50",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "17.50"
           },
           "variantOptions": [
             {
@@ -875,8 +875,8 @@
           "productName": "Black Mulberry Tree",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "17.50",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "17.50"
           },
           "variantOptions": [
             {
@@ -900,8 +900,8 @@
           "productName": "ADAMS ELDERBERRYS CUTINGS",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "17.50",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "17.50"
           },
           "variantOptions": [
             {
@@ -925,8 +925,8 @@
           "productName": "Phoenix Tears Goji Berry",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "15.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "15.00"
           },
           "variantOptions": [],
           "customizations": null,
@@ -945,8 +945,8 @@
           "productName": "LSU Purple FIG CUTTINGS",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "17.50",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "17.50"
           },
           "variantOptions": [
             {
@@ -970,8 +970,8 @@
           "productName": "ALMA FIG CUTINGS",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "17.50",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "17.50"
           },
           "variantOptions": [
             {
@@ -995,8 +995,8 @@
           "productName": "CELESTE FIG CUTINGS",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "17.50",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "17.50"
           },
           "variantOptions": [
             {
@@ -1020,8 +1020,8 @@
           "productName": "LSU Tiger Figs",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "17.50",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "17.50"
           },
           "variantOptions": [
             {
@@ -1039,8 +1039,8 @@
         {
           "method": "weight shipping",
           "amount": {
-            "value": "17.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "17.00"
           }
         }
       ],
@@ -1048,28 +1048,28 @@
       "formSubmission": null,
       "fulfillments": [],
       "subtotal": {
-        "value": "137.50",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "137.50"
       },
       "shippingTotal": {
-        "value": "17.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "17.00"
       },
       "discountTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "taxTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "refundedTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "grandTotal": {
-        "value": "154.50",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "154.50"
       },
       "channelName": "Squarespace",
       "externalOrderReference": null,
@@ -1120,8 +1120,8 @@
           "productName": "Orange Sweet Potato Slips",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "10.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "10.00"
           },
           "variantOptions": [],
           "customizations": null,
@@ -1134,8 +1134,8 @@
         {
           "method": "The Texas Boys",
           "amount": {
-            "value": "9.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "9.00"
           }
         }
       ],
@@ -1143,28 +1143,28 @@
       "formSubmission": null,
       "fulfillments": [],
       "subtotal": {
-        "value": "10.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "10.00"
       },
       "shippingTotal": {
-        "value": "9.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "9.00"
       },
       "discountTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "taxTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "refundedTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "grandTotal": {
-        "value": "19.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "19.00"
       },
       "channelName": "Squarespace",
       "externalOrderReference": null,
@@ -1215,8 +1215,8 @@
           "productName": "Black Mulberry Tree",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "15.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "15.00"
           },
           "variantOptions": [
             {
@@ -1240,8 +1240,8 @@
           "productName": "PIRMARK THORNLESS BLACKBERRY CUTINGS",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "15.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "15.00"
           },
           "variantOptions": [
             {
@@ -1265,8 +1265,8 @@
           "productName": "ADAMS ELDERBERRYS CUTINGS",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "15.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "15.00"
           },
           "variantOptions": [
             {
@@ -1284,8 +1284,8 @@
         {
           "method": "weight shipping",
           "amount": {
-            "value": "9.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "9.00"
           }
         }
       ],
@@ -1293,28 +1293,28 @@
       "formSubmission": null,
       "fulfillments": [],
       "subtotal": {
-        "value": "45.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "45.00"
       },
       "shippingTotal": {
-        "value": "9.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "9.00"
       },
       "discountTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "taxTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "refundedTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "grandTotal": {
-        "value": "54.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "54.00"
       },
       "channelName": "Squarespace",
       "externalOrderReference": null,
@@ -1365,8 +1365,8 @@
           "productName": "Organic Banana Nut Bread 16oz. Candle",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "18.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "18.00"
           },
           "variantOptions": [
             {
@@ -1390,8 +1390,8 @@
           "productName": "Southern Pecan Coffee - Medium Roast",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "8.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "8.00"
           },
           "variantOptions": [
             {
@@ -1415,8 +1415,8 @@
           "productName": "Justice Espresso",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "8.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "8.00"
           },
           "variantOptions": [
             {
@@ -1440,8 +1440,8 @@
           "productName": "Organic Coffee House 16oz Soy Candles",
           "quantity": 1,
           "unitPricePaid": {
-            "value": "10.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "10.00"
           },
           "variantOptions": [
             {
@@ -1459,8 +1459,8 @@
         {
           "method": "weight shipping",
           "amount": {
-            "value": "15.00",
-            "currency": "USD"
+            "currency": "USD",
+            "value": "15.00"
           }
         }
       ],
@@ -1468,28 +1468,28 @@
       "formSubmission": null,
       "fulfillments": [],
       "subtotal": {
-        "value": "44.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "44.00"
       },
       "shippingTotal": {
-        "value": "15.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "15.00"
       },
       "discountTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "taxTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "refundedTotal": {
-        "value": "0.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "0.00"
       },
       "grandTotal": {
-        "value": "59.00",
-        "currency": "USD"
+        "currency": "USD",
+        "value": "59.00"
       },
       "channelName": "Squarespace",
       "externalOrderReference": null,

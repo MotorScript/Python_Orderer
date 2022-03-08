@@ -121,53 +121,58 @@ def get_tea():
         "SQ1253643"
 
     ]
-
+    
+    with open("order_ignore.json", "r") as f:
+        order_ignore = json.load(f)
     with open("orders_data.json", "r") as f:
         orders = json.load(f)
     with open("inventory_data.json", "r") as f:
         inventory = json.load(f)
     with open("tea_inventory.json", "r") as f:
         tea_inv = json.load(f)
+   
     order_product_data = {}
     order_data = []
     tea_orders = []
 
-
     length = int(len(orders["result"]))
     for i in orders["result"][:length]:
-        for b in i["lineItems"]:
-            if b["sku"] in sku_ignore:
-                break
-            else:
-                order_product_data = {
-                    "product_name": b["productName"],
-                    "product_quantity": b["quantity"],
-                    "product_sku": b["sku"]
-                }
-                for a in b["variantOptions"]:
-                    num = 0 
-                    try:
-                        num = re.findall(r'\d+', a["value"])
-                        num = list(map(int, num))
-                        s = [str(i) for i in num]
-                        res = "".join(s)
-                        num = int(res)
-                    except:
-                        num = "NA"
-                    order_product_data["product_size"] = num
-                    order_product_data["size_des"] = a["value"]
-                order_data.append(order_product_data)
-
+        order_number = i["orderNumber"]
+        if order_number in order_ignore:
+            break
+        else:
+            for b in i["lineItems"]:
+                if b["sku"] in sku_ignore:
+                    break
+                else:
+                    order_product_data = {
+                        "product_name": b["productName"],
+                        "product_quantity": b["quantity"],
+                        "product_sku": b["sku"]
+                    }
+                    for a in b["variantOptions"]:
+                        num = 0 
+                        try:
+                            num = re.findall(r'\d+', a["value"])
+                            num = list(map(int, num))
+                            s = [str(i) for i in num]
+                            res = "".join(s)
+                            num = int(res)
+                        except:
+                            num = "NA"
+                        order_product_data["product_size"] = num
+                        order_product_data["size_des"] = a["value"]
+                    order_data.append(order_product_data)
+        order_ignore.append(order_number)
     for order in order_data:
         if order["product_sku"] in tea_sku:
             tea_orders.append(order)
     new_inv = total(tea_inv, tea_orders)
+    with open("order_ignore.json", "w") as f:
+        json.dump(order_ignore, f, indent=2)
     with open("tea_inventory.json", "w") as f:
         json.dump(new_inv, f, indent=2)
     
-
-    with open("tea_orders.json", "w") as f:
-        json.dump(tea_orders, f, indent=2)
     return new_inv
 
 
@@ -177,13 +182,12 @@ def get_tea():
     
 def order_items(dict):
     working_dir = os.getcwd()
-    
-    urls = []
     ignore = [
         "NA",
         "?"
     ]
     for item in dict:
+        print(item["ordered_amount"])
         order_quatity = int(item["ordered_amount"] / 16)
         if order_quatity >= 1:
             url = item["url"]
@@ -221,10 +225,10 @@ def order_items(dict):
         pass_input.send_keys(passwd)
         pass_input.send_keys(Keys.ENTER)
 
-
-def create_worksheet(data):
-    with open(f"{data}", "r") as f:
-        df = pd.json_normalize(json.load(f))
-        df.to_excel("tea_worksheet.xlsx")
+if False:
+    def create_worksheet(data):
+        with open(f"{data}", "r") as f:
+            df = pd.json_normalize(json.load(f))
+            df.to_excel("tea_worksheet.xlsx")
 
 

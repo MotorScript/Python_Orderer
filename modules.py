@@ -180,19 +180,19 @@ def get_tea():
   
 
     
-def order_items(dict):
+def order_items(dict, login_b):
     working_dir = os.getcwd()
     ignore = [
         "NA",
         "?"
     ]
+    driver = webdriver.Firefox(executable_path=fr"{working_dir}/geckodriver")
+
     for item in dict:
-        print(item["ordered_amount"])
         order_quatity = int(item["ordered_amount"] / 16)
         if order_quatity >= 1:
             url = item["url"]
             if url not in ignore:
-                driver = webdriver.Firefox(executable_path=fr"{working_dir}/geckodriver")
                 add_to_cart_xpath = """//*[@id="add-to-cart-button"]"""
                 for i in range(order_quatity):
 
@@ -218,12 +218,29 @@ def order_items(dict):
     with open("tea_inventory.json", "w") as f:
         json.dump(dict, f, indent=2)
     def login(text, passwd):
-        text_input = driver.find_element_by_id("ap_email")
+        loading = True
+        driver.find_element_by_xpath("/html/body/div[1]/div[2]/div/div[1]/div[2]/div/div[1]/form/span/span/input").click()
+        while loading:
+            loading = False
+            try:
+                text_input = driver.find_element_by_id("ap_email")
+            except:
+                loading = True
+
         text_input.send_keys(text)
         text_input.send_keys(Keys.ENTER)
-        pass_input = driver.find_element_by_id("PasswordInputManagers")
+        loading = True
+
+        while loading:
+            loading = False
+            try:
+                pass_input = driver.find_element_by_xpath('//*[@id="ap_password"]')
+            except:
+                loading = True
         pass_input.send_keys(passwd)
         pass_input.send_keys(Keys.ENTER)
+    if login_b:
+        login("countrytexasboys@gmail.com", "c")
 
 if False:
     def create_worksheet(data):

@@ -19,7 +19,7 @@ data = {
     "Authorization": f"Bearer {api_key}",
     "User-Agent": f"{description}"
 }
-pull_info = True
+pull_info = False
 
 if pull_info:
     ws = requests.get("https://docs.google.com/document/d/1FFy3NMaQAYP051l9PW7Ay3LIjRepO_3Q/edit?usp=sharing&ouid=103141353685442283849&rtpof=true&sd=true")
@@ -38,7 +38,7 @@ if pull_info:
 
 tea_inv = modules.get_tea()
 
-modules.order_items(tea_inv)
+modules.order_items(tea_inv, True)
 
 # modules.create_worksheet("tea_inventory.json")
 

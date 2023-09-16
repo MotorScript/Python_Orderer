@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 import json
 import modules
-
+import sqlite3
 
 load_dotenv()
 api_key = os.getenv("API_KEY")

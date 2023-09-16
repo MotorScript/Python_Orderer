@@ -5,25 +5,26 @@ from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 import os
 import pandas as pd
+import sqlite3
 
-def total(inv, orders):
-    for order in orders:
-        name = order['product_name']
-        amount = int(order["product_size"] * order["product_quantity"])
-        for item in inv:
-            if "ordered_amount" not in item.keys():
-                    item["ordered_amount"] = 0
+# def total(inv, orders):
+#     for order in orders:
+#         name = order['product_name']
+#         amount = int(order["product_size"] * order["product_quantity"])
+#         for item in inv:
+#             if "ordered_amount" not in item.keys():
+#                     item["ordered_amount"] = 0
 
-            if item['name'] == name:
-                if item["ordered_amount"] == 0:
-                    item["ordered_amount"] = amount
-                else:
-                    item["ordered_amount"] += amount     
+#             if item['name'] == name:
+#                 if item["ordered_amount"] == 0:
+#                     item["ordered_amount"] = amount
+#                 else:
+#                     item["ordered_amount"] += amount     
             
                 
             
                 
-    return inv
+#     return inv
 
 
 def get_tea():
